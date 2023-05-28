@@ -1,1 +1,1 @@
-# iafsm-regression
+# medical price predictor
